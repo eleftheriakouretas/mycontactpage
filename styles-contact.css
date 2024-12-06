@@ -72,7 +72,7 @@ html, body {
 }
 
 .center {
-    width: 600px;
+	width: 600px;
 	padding: 2%;
     margin: 75px auto; /* adjusted the top and bottom margin to move my center up a bit so it wasn't stuck on the bottom*/
  	background: rgba(40, 80, 95, 0.812); /*this uses opacity of  about 81% for the background color*/
